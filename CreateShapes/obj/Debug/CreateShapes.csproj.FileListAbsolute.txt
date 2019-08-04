@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\CreateShapes\CreateShapes\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\USER\source\repos\CreateShapes\CreateShapes\bin\TypeScriptHTMLApp1.dll
+C:\Users\USER\source\repos\CreateShapes\CreateShapes\bin\TypeScriptHTMLApp1.pdb
+C:\Users\USER\source\repos\CreateShapes\CreateShapes\obj\Debug\CreateShapes.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\CreateShapes\CreateShapes\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\USER\source\repos\CreateShapes\CreateShapes\obj\Debug\TypeScriptHTMLApp1.pdb
+C:\Users\USER\source\repos\CreateShapes\CreateShapes\obj\Debug\CreateShapes.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\JohnBryceCourse\GitHubProjects\CreateShapes\CreateShapes\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\USER\Desktop\JohnBryceCourse\GitHubProjects\CreateShapes\CreateShapes\bin\TypeScriptHTMLApp1.dll
+C:\Users\USER\Desktop\JohnBryceCourse\GitHubProjects\CreateShapes\CreateShapes\bin\TypeScriptHTMLApp1.pdb
+C:\Users\USER\Desktop\JohnBryceCourse\GitHubProjects\CreateShapes\CreateShapes\obj\Debug\CreateShapes.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\JohnBryceCourse\GitHubProjects\CreateShapes\CreateShapes\obj\Debug\CreateShapes.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\JohnBryceCourse\GitHubProjects\CreateShapes\CreateShapes\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\USER\Desktop\JohnBryceCourse\GitHubProjects\CreateShapes\CreateShapes\obj\Debug\TypeScriptHTMLApp1.pdb
